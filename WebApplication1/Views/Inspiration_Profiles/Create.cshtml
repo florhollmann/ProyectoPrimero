@@ -1,0 +1,53 @@
+﻿@model WebApplication1.Models.Inspiration_Profiles
+
+@{
+    ViewBag.Title = "Create";
+}
+<main id="EstiloMain">
+    <h2>Crear Perfil </h2>
+    <div class="row">
+        <div class="col-xs-12 col-lg-6">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Crear" class="btn btn-default" />
+
+                        </div>
+                    </div>
+                </div>
+            }
+            <div>
+                @Html.ActionLink("Volver", "Index")
+            </div>
+        </div>
+            <div class="col-xs-12 col-lg-6">
+            <button class="btn btn-default">@Html.ActionLink("Añadir nuevo libro", "Create", "Book")</button>
+            </div>
+        </div>
+
+  
+            @section Scripts {
+                @Scripts.Render("~/bundles/jqueryval")
+            }
+        </main>

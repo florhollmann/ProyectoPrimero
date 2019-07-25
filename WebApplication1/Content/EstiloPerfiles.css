@@ -1,0 +1,86 @@
+﻿.fila {
+    padding-top: 20px;
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.perfil-inspirador {
+    margin-top: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 65%;
+}
+
+.perfil-inspirador h5 {
+    font-weight: 700;
+     background: white;
+     margin-left: -15px;
+}
+
+#MarkZuc {
+    background-image: url('../Images/Mark Zuck.jpg');
+}
+#JeffB {
+    background-image: url('../Images/Jeff Bezos.jpg');
+    background-size: 130%;
+}
+#BillG {
+    background-image: url('../Images/bilgates2.jpg');
+    background-size: 130%;
+}
+#SteveJ {
+    background-image: url('../Images/SteveJobs.png');
+    background-size: 130%;
+}
+#EllonM {
+    background-image: url('../Images/Ellon musk.png');
+    background-size: 160%;
+}
+#JackM {
+    background-image: url('../Images/Jack Ma 2.jpg');
+}
+#PropioPerfil {
+    background-image: url('../Images/icono-plus.jpg');
+    background-size: 150%;
+}
+button {
+    font-size: 12px;
+    border-radius: 12px;
+    padding: 8px 20px;
+    border: none;
+    background-color: rgba(237, 237, 237, 1);
+    color: rgba(141, 141, 141, 1);
+}
+
+    button:hover {
+        background-color: hsla(255, 100%, 100%, 1)
+    }
+
+.info-persona {
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    margin-top: 50px;
+    -moz-box-shadow: 7px 7px 20px 2px rgba(0,0,0,0.62);
+    box-shadow: 7px 10px 20px 2px rgba(0,0,0,0.62);
+    border-radius: 23px;
+}
+div.info-persona:hover {
+    opacity: 0.5;
+    filter: grayscale(100%); /**/
+    -webkit-filter: grayscale(100%); /**/
+}
+
+div.info-persona:active {
+    transform: translateY(7px);
+}
+
+#infoYnota {
+    display: flex;
+    flex-direction: column;
+}

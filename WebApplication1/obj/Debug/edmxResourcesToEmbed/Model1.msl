@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BibioltecaInspiracionModelStoreContainer" CdmEntityContainer="BibioltecaInspiracionEntities">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="BibioltecaInspiracionModel.Author">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="IDauthor" ColumnName="IDauthor" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="BibioltecaInspiracionModel.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="IDautor" ColumnName="IDautor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Inspiration_Profiles">
+      <EntityTypeMapping TypeName="BibioltecaInspiracionModel.Inspiration_Profiles">
+        <MappingFragment StoreEntitySet="Inspiration_Profiles">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Books_and_InspirationProfiles" TypeName="BibioltecaInspiracionModel.Books_and_InspirationProfiles" StoreEntitySet="Books_and_InspirationProfiles">
+      <EndProperty Name="Books">
+        <ScalarProperty Name="ID" ColumnName="IDLibro" />
+      </EndProperty>
+      <EndProperty Name="Inspiration_Profiles">
+        <ScalarProperty Name="ID" ColumnName="IDPerfil_Inspirador" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

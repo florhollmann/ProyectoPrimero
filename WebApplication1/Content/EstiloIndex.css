@@ -1,0 +1,416 @@
+﻿/* color celeste #0098aa
+   color gris #e9ecef
+*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    background: white;
+}
+/* Reset style */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a, a:hover, a:active, a:focus {
+    text-decoration: none;
+    outline: 0;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/*/////////////-------------- BANNER fondo HEADER -----------//////////// */
+#HeroBanner {
+    display: table;
+    padding: 0;
+    width: 100%;
+    height: 650px;
+    background: url('../Images/architecture-book-shelves-bookcase-1319854.jpg') bottom no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+    #HeroBanner .hero-content {
+        display: table-cell;
+        background-color: rgba(10,40,60,0.7);
+        text-align: center;
+        vertical-align: middle;
+        padding: 0 15px;
+    }
+
+        #HeroBanner .hero-content h1 {
+            font-size: 48px;
+            color: #fff;
+            text-transform: uppercase;
+            margin: 0 0 20px;
+        }
+
+        #HeroBanner .hero-content p {
+            font-size: 28px;
+            color: #fff;
+            margin: 0 0 30px;
+        }
+
+        #HeroBanner .hero-content .hero-cta {
+            font-size: 22px;
+            color: #fff;
+            text-decoration: none;
+            border: 2px solid #fff;
+            border-radius: 0;
+            display: inline-block;
+            padding: 10px 20px;
+            transition: all 0.3s ease-in-out;
+        }
+
+            #HeroBanner .hero-content .hero-cta:hover {
+                background-color: #0098aa;
+                border: 2px solid #0098aa;
+                transition: all 0.3s ease-in-out;
+            }
+
+            /* ---------------------seccion Curiosidades-------------------------*/
+/* services section style goes here */
+#Services {
+    padding: 80px 0 50px;
+    background-color: #fafafa;
+}
+
+    #Services .block-heading {
+        margin-bottom: 100px;
+    }
+
+        #Services .block-heading p:last-of-type {
+            margin: 0;
+        }
+
+    #Services .services-wrapper {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    #Services .each-service {
+        position: relative;
+        text-align: center;
+        border: 1px solid #e6e6e6;
+        border-radius: 12px;
+        background-color: #fff;
+        margin: 0 15px 40px;
+        padding: 25px 20px 15px;
+    }
+
+        #Services .each-service .service-icon {
+            position: absolute;
+            top: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 15px;
+            background-color: #0098aa;
+            border-radius: 50%;
+            transition: all 0.2s ease-in-out;
+        }
+
+            #Services .each-service .service-icon i {
+                font-size: 24px;
+                color: #fff;
+                transition: all 0.2s ease-in-out;
+            }
+
+        #Services .each-service:hover .service-icon {
+            background-color: #ffffff;
+            border: 1px solid #0098aa;
+            transition: all 0.2s ease-in-out;
+        }
+
+            #Services .each-service:hover .service-icon i {
+                color: #0098aa;
+                transition: all 0.2s ease-in-out;
+            }
+
+        #Services .each-service h5 {
+            margin: 10px 0 10px;
+        }
+
+        #Services .each-service p:last-child {
+            margin: 0;
+        }
+ /* ----- CARROUSELLLLLLLLLL ----------*/
+
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+.mySlides {
+    display: none;
+}
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+.text {
+    color: black;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+/* about us section style goes here */
+#QuienesSomos {
+    position: relative;
+}
+#QuienesSomos .container-fluid {
+    padding: 50px;
+}
+
+h2 {
+    font-weight:700;
+}
+    #QuienesSomos .about-wrapper .col-lg-6 {
+        padding: 80px 20px 80px 10px;
+    }
+
+
+
+#fotoStartup {
+    background: url('../Images/startup.jpg') no-repeat;
+    background-size: 100%;
+    background-position:center;
+    padding: -50px;
+}
+
+/*Baner perfiles
+
+*/
+#bannerPerfiles {
+    background-image: url('../Images/startup-photos.jpg');
+    background-size: 100%;
+    opacity: 0.8;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+#bannerPerfiles h3 {
+    padding: 50px;
+    font-weight: 800;
+}
+
+/* --- SECCION CONTACTO 
+
+*/
+/* Contact us section style goes here */
+#ContactUs {
+    padding: 70px 0;
+    margin-top: 100px;
+    background-color: lightgray;
+}
+
+#ContactUs .row {
+    margin-top: 40px !important;
+}
+
+    #ContactUs .contact-title {
+        font-size: 30px;
+        color: #000;
+        text-align: center;
+        margin: 0 0 30px;
+    }
+
+    #ContactUs .contact-outer-wrapper {
+        width: 100%;
+        height: auto;
+        display: table;
+        margin: 0 auto;
+    }
+
+    #ContactUs .address-block {
+        width: 40%;
+        height: 100%;
+        display: table-cell;
+        color: #333;
+        position: relative;
+        padding: 40px;
+    }
+
+        #ContactUs .address-block::after {
+            position: absolute;
+            content: "";
+            right: 3%;
+            width: 1px;
+            height: 80%;
+            background: #ccc;
+            top: 10%;
+        }
+
+    #ContactUs .add-title {
+        font-size: 22px;
+        font-weight: bold;
+        margin: 0 0 50px;
+    }
+
+    #ContactUs .c-detail {
+        margin-bottom: 20px;
+    }
+
+        #ContactUs .c-detail:last-child {
+            margin-bottom: 0;
+        }
+
+        #ContactUs .c-detail .c-icon {
+            width: 8%;
+            display: inline-block;
+            font-size: 20px;
+            vertical-align: top;
+        }
+
+        #ContactUs .c-detail .c-info {
+            width: 90%;
+            display: inline-block;
+            vertical-align: top;
+        }
+
+        #ContactUs .c-detail span .fa {
+            vertical-align: top;
+        }
+
+    #ContactUs .form-wrap {
+        width: 60%;
+        display: table-cell;
+        padding: 40px;
+    }
+
+        #ContactUs .form-wrap .floating-label {
+            position: relative;
+            width: 47%;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+
+        #ContactUs .form-wrap .fname, #ContactUs .form-wrap .contact {
+            margin-right: 20px;
+        }
+
+        #ContactUs .form-wrap .user-msg {
+            width: 98%;
+            display: block;
+            margin-bottom: 40px;
+        }
+
+    #ContactUs .floating-input {
+        width: 100%;
+        border: 0;
+        border-bottom: 1px solid #999999;
+        box-shadow: none;
+        background-color: transparent;
+        padding-top: 3px;
+    }
+
+        #ContactUs .floating-input:focus {
+            outline: 0;
+        }
+
+    #ContactUs .form-wrap label {
+        position: absolute;
+        top: 0px;
+        left: 0;
+        font-size: 14px;
+        text-align: left;
+        color: #999999;
+        transition: top 0.2s ease-in-out;
+        z-index: -1;
+        margin: 0;
+    }
+
+    #ContactUs .floating-input:focus ~ label, #ContactUs .floating-input.not-empty ~ label {
+        top: -18px;
+        font-size: 12px;
+        color: #0098aa;
+        transition: top 0.2s ease-in-out;
+    }
+
+    #ContactUs .submit-btn {
+        text-align: center;
+    }
+
+        #ContactUs .submit-btn button {
+            font-size: 16px;
+            border: 0;
+            border-radius: 0;
+            background-color: #0098aa;
+            color: #fff;
+            padding: 10px 20px;
+            cursor: pointer;
+            outline: 0;
+        }
+
+            #ContactUs .submit-btn button:hover {
+                background-color: rgba(0,152,170,0.8);
+            }

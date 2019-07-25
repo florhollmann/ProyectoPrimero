@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibreriaDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="IDauthor" />
+    </Key>
+    <Property Name="IDauthor" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="80" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_Books_Authors" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IDautor" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Author" Relationship="Self.FK_Books_Authors" FromRole="Books" ToRole="Authors" />
+    <NavigationProperty Name="Inspiration_Profiles" Relationship="Self.Books_and_InspirationProfiles" FromRole="Books" ToRole="Inspiration_Profiles" />
+  </EntityType>
+  <EntityType Name="Inspiration_Profiles">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="80" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Books" Relationship="Self.Books_and_InspirationProfiles" FromRole="Inspiration_Profiles" ToRole="Books" />
+  </EntityType>
+  <Association Name="FK_Books_Authors">
+    <End Role="Authors" Type="Self.Author" Multiplicity="1" />
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="IDauthor" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="IDautor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Books_and_InspirationProfiles">
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+    <End Role="Inspiration_Profiles" Type="Self.Inspiration_Profiles" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="LibreriaDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="Self.Author" />
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Inspiration_Profiles" EntityType="Self.Inspiration_Profiles" />
+    <AssociationSet Name="FK_Books_Authors" Association="Self.FK_Books_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="Books_and_InspirationProfiles" Association="Self.Books_and_InspirationProfiles">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Inspiration_Profiles" EntitySet="Inspiration_Profiles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

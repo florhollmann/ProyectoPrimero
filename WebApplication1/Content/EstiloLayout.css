@@ -1,0 +1,122 @@
+﻿body {
+    margin-top: 0;
+    padding-top: 0 !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight:400;
+    line-height: 1.5;
+}
+/* Reset style */
+* {
+    margin: 0;
+    padding: 0;
+}
+a, a:hover, a:active, a:focus {
+    text-decoration: none;
+    outline: 0;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+}
+}
+/* utility classes*/
+.primary-btn {
+    font-size: 18px;
+    color: #000;
+    border: 2px solid #000;
+    padding: 7px 20px;
+}
+
+    .primary-btn:hover {
+        color: #0098aa;
+        border-color: #0098aa;
+    }
+
+.block-heading {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+    .block-heading p:last-child {
+        margin: 0;
+    }
+/* Header style goes here */
+
+#navegador {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    box-shadow: 7px 10px 20px 2px rgba(0,0,0,0.62);
+    transition: all 0.3s ease-in-out;
+}
+
+     .btn {
+        color: #0098aa;
+        border-color: #0098aa;
+        border-radius: 0px;
+    }
+#EstiloMain {
+    padding-top: 200px;
+    margin: 0 30px 50px 30px;
+}
+
+/* footer style goes here */
+#Footer {
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 50px 0;
+}
+
+    #Footer .footer-logo-wrap {
+        width: 100%;
+        font-size: 12px;
+        color: #fff;
+    }
+
+        #Footer .footer-logo-wrap a {
+            color: #0098aa;
+            outline: 0;
+        }
+
+    #Footer .footer-logo-wrap {
+        width: 100%;
+        text-align: center;
+    }
+
+    #Footer .social-share {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+        #Footer .social-share ul {
+            text-align: center;
+        }
+
+            #Footer .social-share ul li {
+                list-style: none;
+                display: inline-block;
+                vertical-align: middle;
+            }
+
+                #Footer .social-share ul li a {
+                    font-size: 22px;
+                    color: #fff;
+                    padding: 0 10px;
+                }
+
+                    #Footer .social-share ul li a:hover .fa-facebook {
+                        color: #3b5998;
+                    }
+
+                    #Footer .social-share ul li a:hover .fa-twitter {
+                        color: #00aced;
+                    }
+
+                    #Footer .social-share ul li a:hover .fa-linkedin {
+                        color: #0077B5;
+                    }
+
+                    #Footer .social-share ul li a:hover .fa-instagram {
+                        color: #fb3958;
+                    }

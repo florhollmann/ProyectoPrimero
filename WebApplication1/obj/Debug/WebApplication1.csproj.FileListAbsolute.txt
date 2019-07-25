@@ -1,0 +1,240 @@
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Florencia\Desktop\SolucWebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\WebApplication1.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\EntityFramework.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\WebGrease.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\EntityFramework.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Florencia\Desktop\MVC PAGINA WEB\LibrerioaOnline\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\LibrerioaOnline-master\WebApplication1\bin\WebApplication1.dll.config
+C:\LibrerioaOnline-master\WebApplication1\bin\WebApplication1.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\WebApplication1.pdb
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\csc.exe
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\csc.exe.config
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\csc.rsp
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\csi.exe
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\csi.exe.config
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\csi.rsp
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Console.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\vbc.exe
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\vbc.exe.config
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\vbc.rsp
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\LibrerioaOnline-master\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\LibrerioaOnline-master\WebApplication1\bin\Antlr3.Runtime.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\EntityFramework.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\Newtonsoft.Json.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Helpers.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Mvc.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Optimization.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Razor.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.WebPages.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\WebGrease.dll
+C:\LibrerioaOnline-master\WebApplication1\bin\EntityFramework.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Helpers.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Mvc.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Optimization.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.Razor.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.WebPages.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\Newtonsoft.Json.xml
+C:\LibrerioaOnline-master\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\LibrerioaOnline-master\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LibrerioaOnline-master\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\LibrerioaOnline-master\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\LibrerioaOnline-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\LibrerioaOnline-master\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\LibrerioaOnline-master\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
